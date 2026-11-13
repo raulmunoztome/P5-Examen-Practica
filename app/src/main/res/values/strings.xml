@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">practica5</string>
+    <string name="btn_hide_toolbar">Ocultar Toolbar</string>
+    <string name="btn_show_toolbar">Mostrar Toolbar</string>
+    <string name="menu_favorite">Favorito</string>
+    <string name="menu_settings">Ajustes</string>
+    <string name="option_clear">Limpiar</string>
+    <string name="option_newActivity">Enviar datos</string>
+    <string name="toast_option_newAct">Has seleccionado: Enviar datos</string>
+    <string name="toast_option_clear">Has seleccionado: Limpiar</string>
+    <string name="hint_name">Introduce tu nombre</string>
+    <string name="hint_edad">Introduce tu edad</string>
+</resources>
