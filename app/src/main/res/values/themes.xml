@@ -1,8 +1,11 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
     <style name="Base.Theme.Practica5" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your light theme here. -->
-        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/verde_principal</item>
+        <item name="colorPrimaryDark">@color/verde_oscuro</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:windowBackground">@color/fondo_pantalla</item>
+        <item name="android:statusBarColor">@color/verde_oscuro</item>
     </style>
 
     <style name="Theme.Practica5" parent="Base.Theme.Practica5" />
